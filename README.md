@@ -29,7 +29,7 @@ Use this template as your first Pull Request "Add basic index.html".
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Maria Lesenco - CV/Resume</title>
+    <title>Your Name - CV/Resume</title>
   </head>
 
   <body></body>
